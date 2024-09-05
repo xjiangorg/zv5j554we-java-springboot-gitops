@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: zv5j554we-java-springboot-repository
+spec:
+  url: https://github.com/xjiangorg/zv5j554we-java-springboot
